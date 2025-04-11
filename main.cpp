@@ -2,7 +2,7 @@
 
 int main() {
 	
-	printf("Black Panda");
+	printf("Panda");
 
-	return 0;
+		return 0;
 }
