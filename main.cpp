@@ -1,8 +1,8 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main() {
 	
-	printf("hello PG3");
+	printf("お前はもう死んでいる\n");
 
 		return 0;
 }
