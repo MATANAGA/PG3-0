@@ -6,7 +6,7 @@ T Min(T a, T b) {
     return (a < b) ? a : b;
 }
 
-// char型の特殊化（isdigitなし）
+// char型の特殊化
 template <>
 char Min(char a, char b) {
     if ((a < '0' || a > '9') || (b < '0' || b > '9')) {
